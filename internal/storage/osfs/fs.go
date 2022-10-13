@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/bmaupin/go-epub/internal/storage"
+	"github.com/frankfang/go-epub/internal/storage"
 )
 
 type OSFS struct {

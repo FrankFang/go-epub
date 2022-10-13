@@ -1,18 +1,18 @@
-[![CI](https://github.com/bmaupin/go-epub/workflows/CI/badge.svg)](https://github.com/bmaupin/go-epub/actions)
-[![Coverage Status](https://coveralls.io/repos/github/bmaupin/go-epub/badge.svg)](https://coveralls.io/github/bmaupin/go-epub)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bmaupin/go-epub)](https://goreportcard.com/report/github.com/bmaupin/go-epub)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bmaupin/go-epub/blob/master/LICENSE)
-[![GoDoc](https://godoc.org/github.com/bmaupin/go-epub?status.svg)](https://godoc.org/github.com/bmaupin/go-epub)
+[![CI](https://github.com/FrankFang/go-epub/workflows/CI/badge.svg)](https://github.com/FrankFang/go-epub/actions)
+[![Coverage Status](https://coveralls.io/repos/github/FrankFang/go-epub/badge.svg)](https://coveralls.io/github/FrankFang/go-epub)
+[![Go Report Card](https://goreportcard.com/badge/github.com/FrankFang/go-epub)](https://goreportcard.com/report/github.com/FrankFang/go-epub)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FrankFang/go-epub/blob/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/FrankFang/go-epub?status.svg)](https://godoc.org/github.com/FrankFang/go-epub)
 
 ---
 
 ### Features
-- [Documented API](https://godoc.org/github.com/bmaupin/go-epub)
+- [Documented API](https://godoc.org/github.com/FrankFang/go-epub)
 - Creates valid EPUB 3.0 files
-- Adds an additional EPUB 2.0 table of contents ([as seen here](https://github.com/bmaupin/epub-samples)) for maximum compatibility
+- Adds an additional EPUB 2.0 table of contents ([as seen here](https://github.com/FrankFang/epub-samples)) for maximum compatibility
 - Includes support for adding CSS, images, and fonts
 
-For an example of actual usage, see https://github.com/bmaupin/go-docs-epub
+For an example of actual usage, see https://github.com/FrankFang/go-docs-epub
 
 ### Contributions
 

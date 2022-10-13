@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bmaupin/go-epub/internal/storage"
+	"github.com/frankfang/go-epub/internal/storage"
 	"github.com/gofrs/uuid"
 )
 
