@@ -1,4 +1,4 @@
-module github.com/bmaupin/go-epub
+module github.com/FrankFang/go-epub
 
 go 1.15
 

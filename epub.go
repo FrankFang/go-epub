@@ -1,6 +1,6 @@
 /*
 Package epub generates valid EPUB 3.0 files with additional EPUB 2.0 table of
-contents (as seen here: https://github.com/bmaupin/epub-samples) for maximum
+contents (as seen here: https://github.com/FrankFang/epub-samples) for maximum
 compatibility.
 
 Basic usage:
@@ -21,7 +21,6 @@ Basic usage:
 	if err != nil {
 		// handle error
 	}
-
 */
 package epub
 
